@@ -86,6 +86,6 @@ Entretanto, a implementação de paralelização em GPU pode não ser vantajosa 
 
 ### Códigos das Implementações
 
-LINK git Lissandro: 
+LINK git Lissandro: https://github.com/iceheart0/ACACUP
 
 LINK git Rodrigo:
